@@ -29,8 +29,8 @@
 // console.log(myNameIs);
 // let my_age_is = 10;
 
-// let sentence = myNameIs + " đang là " + my_age_is + " tuổi"
-// let newSentence = `${myNameIs} đang là ${my_age_is} tuổi`
+let sentence = myNameIs + " đang là " + my_age_is + " tuổi";
+let newSentence = `${myNameIs} đang là ${my_age_is} tuổi`;
 
 // console.log(sentence);
 
